@@ -8,4 +8,4 @@ For Udacity A.I. Nanodegree program.
 | Project Name       | link                                                                                          |
 | ------------------ |:---------------------------------------------------------------------------------------------:|
 | Sudoku   AI Agent  | [Project Submission](https://github.com/TheQuengineer/AIND/blob/master/AIND-Sudoku/README.md) |
-| Game Playing Agent | IN PROGRESS                                                                                   |
+| Game Playing Agent | [Project Submission](https://github.com/TheQuengineer/AIND/blob/master/AIND-Isolation/isolation/README.md) |                                                                                   
